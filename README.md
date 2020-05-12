@@ -45,4 +45,5 @@
 ![pingpingwuqi](https://github.com/Arm1ng/TcpAS/blob/master/image/pingpingwuqi.png?raw=true)
 
 👏👏👏
+[个人介绍](https://baike.baidu.com/item/%E5%B0%8F%E6%98%8E/33553?fr=aladdin)
 
