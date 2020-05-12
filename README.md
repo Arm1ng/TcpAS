@@ -41,8 +41,8 @@
 ***
 
 这里是平平无奇的隔壁班小明，你最熟悉的陌生人。
+![pingpingwuqi](https://github.com/Arm1ng/TcpAS/blob/master/image/pingpingwuqi.png?raw=true)
 
 👏👏👏
-
-[感兴趣的戳这里]( [https://baike.baidu.com/item/%E5%B0%8F%E6%98%8E/33553?fr=aladdin](https://baike.baidu.com/item/小明/33553?fr=aladdin) )
+![感兴趣的戳这里]( [https://baike.baidu.com/item/%E5%B0%8F%E6%98%8E/33553?fr=aladdin](https://baike.baidu.com/item/小明/33553?fr=aladdin) )
 
